@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\GitPrograme\SmileView-master\AoeDemo\app\libs\AOE_SDK-1.2.4.release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0271454e7faf8a0b2a1b46ce0ce2c53682e4edbc">
+        <dex dex="E:\GitPrograme\SmileView-master\AoeDemo\app\build\intermediates\pre-dexed\debug\AOE_SDK-1.2.4.release_a214dbd8017ddd7b9c952a0296b6d61693577db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitPrograme\SmileView-master\AoeDemo\app\libs\b.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba3c81c1ba53316db554eac7e145d254e8d0deb7">
+        <dex dex="E:\GitPrograme\SmileView-master\AoeDemo\app\build\intermediates\pre-dexed\debug\b_43200ad235007fbb46d503edc10f586a7d866408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Java\newsdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\GitPrograme\SmileView-master\AoeDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4506c23043e304bf3d20cb7e8cd837e263b668d9.jar" />
+    </item>
+
+</items>

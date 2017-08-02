@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:2:1-189:12
+	package
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:13:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.DEVICE_POWER
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:20:5-22:47
+	tools:ignore
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:21:9-55
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:24:22-70
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:25:22-74
+uses-permission#android.permission.SIGNAL_PERSISTENT_PROCESSES
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:26:5-86
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:26:22-83
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:29:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:31:22-81
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:33:22-72
+application
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:36:5-187:19
+	android:label
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:40:9-41
+	android:allowBackup
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:39:9-45
+	android:persistent
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:41:9-34
+	android:theme
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:42:9-40
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:37:9-53
+activity#com.lt.aoedemo.MainActivity
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:44:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:49:27-74
+activity#com.lt.aoedemo.InitResultActivity
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:launchMode
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:53:13-61
+activity#com.lt.aoedemo.FirstActivity
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:56:9-57:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:56:19-62
+activity#com.lt.aoedemo.DemoMessageAlert
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:59:13-59
+activity#com.cmcc.aoe.activity.MessageAlert
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:66:13-62
+receiver#com.cmcc.aoe.receiver.AoeNetReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:72:19-70
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:73:13-75:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:74:17-79
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:74:25-76
+receiver#com.cmcc.aoe.receiver.BootReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:79:9-89:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:79:19-68
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:80:13-82:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:81:17-79
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:81:25-76
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:83:13-85:29
+action#android.intent.action.USER_PRESENT
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:84:17-77
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:84:25-74
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:86:13-88:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:87:17-82
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:87:25-79
+receiver#com.cmcc.aoe.receiver.PackageReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:91:40-97:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:91:50-102
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:92:13-96:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:93:17-78
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:93:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:94:17-80
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:94:25-77
+data
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:95:17-50
+	android:scheme
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:95:23-47
+receiver#com.cmcc.aoe.receiver.SMSDataReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:100:9-109:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:100:19-71
+intent-filter#android.intent.action.DATA_SMS_RECEIVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:101:13-108:29
+action#android.intent.action.DATA_SMS_RECEIVED
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:102:17-82
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:102:25-79
+receiver#com.cmcc.aoe.receiver.SMSNotifyReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:112:9-116:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:112:19-73
+intent-filter#com.aoe.action.SMSNotify
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:113:13-115:29
+action#com.aoe.action.SMSNotify
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:114:17-67
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:114:25-64
+receiver#com.cmcc.aoe.receiver.SMSWakeupReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:119:9-128:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:119:19-73
+receiver#com.cmcc.aoe.receiver.RebindReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:131:9-137:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:131:19-70
+intent-filter#com.aoe.action.TO_CLOSE_AOE+com.aoe.action.WAKEUP_APP_REBIND
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:132:13-136:29
+action#com.aoe.action.WAKEUP_APP_REBIND
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:133:17-75
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:133:25-72
+action#com.aoe.action.TO_CLOSE_AOE
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:134:17-70
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:134:25-67
+service#com.cmcc.aoe.BindAoeService
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:140:9-144:19
+	android:exported
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:142:13-36
+	android:persistent
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:143:13-38
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:141:13-55
+service#com.cmcc.aoe.AoeService
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:147:9-160:19
+	android:process
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:151:13-54
+	android:exported
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:149:13-36
+	android:persistent
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:150:13-38
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:148:13-51
+intent-filter#android.intent.category.DEFAULT+com.cmcc.aoe.AOEService.Register
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:152:13-155:29
+action#com.cmcc.aoe.AOEService.Register
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:153:17-75
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:153:25-72
+category#android.intent.category.DEFAULT
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:154:17-76
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:154:27-73
+meta-data#service_version
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:157:13-159:41
+	android:value
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:159:17-38
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:158:17-47
+meta-data#appid_with_aoe
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:163:9-165:51
+	android:value
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:165:13-48
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:164:13-42
+meta-data#aoe_network_state
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:168:9-170:33
+	android:value
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:170:13-30
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:169:13-45
+meta-data#aoicallback
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:171:9-173:58
+	android:value
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:173:13-55
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:172:13-39
+receiver#com.cmcc.aoe.receiver.NotifyCationReceiver
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:176:9-180:20
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:176:19-76
+intent-filter#com.leadtone.receiver.appid.108100000004
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:177:13-179:29
+action#com.leadtone.receiver.appid.108100000004
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:178:17-83
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:178:25-80
+service#com.cmcc.sso.service.SsoService
+ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:183:9-186:19
+	android:process
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:185:13-46
+	android:name
+		ADDED from E:\GitPrograme\SmileView-master\AoeDemo\app\src\main\AndroidManifest.xml:184:13-59
